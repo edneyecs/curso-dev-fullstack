@@ -1,0 +1,22 @@
+body {
+    background-color: yellowgreen;
+
+}
+
+.foto-principal {
+    width: 300px;
+    border: 2px solid rgb(250, 247, 247);
+    border-radius: 50%;
+    /* border-radius 20% 40% 10% 80%;  aceita  4 parametros, referente aos lados*/
+
+    /* distancia das margens da image */
+    margin: 30px 30px 30px 30px;
+    /*espaçamento interno da imagem */
+    padding: 10px; 
+
+    box-shadow: 0px 0px 10px black;
+}
+
+p {
+    color: #222222;
+}
